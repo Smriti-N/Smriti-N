@@ -15,8 +15,8 @@
 
 </div>
 
-✦ About Me
-I'm Smriti Bharti, an Electrical Engineering undergraduate at NIT Jamshedpur, graduating in 2028 with a CGPA of 8.8/10.
+✦ About Me: 
+I'm Smriti Bharti, an Electrical Engineering undergraduate at NIT Jamshedpur, graduating in 2028 (CGPA - 8.8/10).
 
 I'm passionate about software engineering, data structures and algorithms, and full-stack development. I enjoy turning ideas into practical applications, strengthening my problem-solving skills, and learning by building. I'm also exploring open-source projects and looking for opportunities to contribute to developer communities.
 - Building full-stack applications with React, Node.js, Express, and MongoDB.
@@ -25,16 +25,20 @@ I'm passionate about software engineering, data structures and algorithms, and f
 ✦ Tech Stack
 <div align="center">
 
-Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js&theme=dark" alt="C++, C, Java, JavaScript" />
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js&theme=dark" alt="C++, C, Java, JavaScript" />
+</p>
 
+<p align="center"><strong>Frontend, Backend &amp; Database</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark" alt="HTML, CSS, React, Node.js, Express, MongoDB" />
+</p>
 
-Frontend, Backend & Database
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark" alt="HTML, CSS, React, Node.js, Express, MongoDB" />
-
-
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Git, GitHub, VS Code, Arduino" />
+<p align="center"><strong>Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Git, GitHub, VS Code, Arduino" />
+</p>
 
 </div>
 
@@ -50,7 +54,6 @@ Tools
         <li>JWT authentication, Google OAuth, and role-based access control</li>
       </ul>
       <p><strong>Stack:</strong> React · Node.js · Express · MongoDB</p>
-      <p><a href="ADD_MEDTRACK_REPOSITORY_LINK">↗ View project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>✧ Smart Expense</h3>
@@ -61,7 +64,6 @@ Tools
         <li>Voice-based expense entry</li>
       </ul>
       <p><strong>Stack:</strong> React · Node.js · Express · MongoDB · Gemini API</p>
-      <p><a href="ADD_SMART_EXPENSE_REPOSITORY_LINK">↗ View project</a></p>
     </td>
   </tr>
   <tr>
@@ -69,12 +71,10 @@ Tools
       <h3>✧ ReRise AI — Career Re-entry Assistant</h3>
       <p>A Generative AI-powered assistant designed to help women returning to work after a career break, with personalized career guidance, roadmaps, readiness scoring, and weekly planning.</p>
       <p><strong>Stack:</strong> AWS PartyRock · Generative AI</p>
-      <p><a href="ADD_RERISE_AI_LINK">↗ View project</a> · Aspire For Her × Logitech hackathon semi-finalist project</p>
+      <p>Aspire For Her × Logitech hackathon semi-finalist project</p>
     </td>
   </tr>
 </table>
-
-Replace the three ADD_..._LINK placeholders with your real repository or project URLs before publishing.
 
 ✦ Achievements
 - Winner — Decoduino, NIT Jamshedpur.
