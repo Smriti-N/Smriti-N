@@ -1,98 +1,121 @@
-# Hi, I'm Smriti Bharti
+<!-- ==================== ANIMATED HEADER ==================== -->
+<div align="center">
 
-### Electrical Engineering Student | Aspiring Software Engineer | Full-Stack Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=210&section=header&text=Smriti%20Bharti&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Open%20Source&descSize=15&descAlignY=58&animation=fadeIn" alt="Smriti Bharti — Software Engineering, Full-Stack Development, Open Source" />
 
-I'm an Electrical Engineering undergraduate at **NIT Jamshedpur (Class of 2028)**, passionate about problem-solving, software development, and building applications that solve real-world problems.
+<a href="https://github.com/Smriti-N">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Electrical+Engineering+%40+NIT+Jamshedpur;Aspiring+Software+Engineer;Full-Stack+Developer;Problem+Solver+%7C+Open-Source+Learner" alt="Typing animation" />
+</a>
 
-- **Problem Solving:** Solved 600+ DSA problems across coding platforms.
-- **Full-Stack Development:** Building web applications with React, Node.js, Express, and MongoDB.
-- **Hackathons:** Winner at Decoduino and a Top 5 finisher among 250+ teams at Pantheon, BIT Mesra.
-- **Open Source:** Exploring open-source projects and contributing to developer communities.
-- **Academics:** CGPA of 8.8/10.
-
-## Technical Skills
-
-**Languages:** C++, C, Java, JavaScript
-
-**Frontend:** HTML, CSS, React.js
-
-**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-
-**Database:** MongoDB
-
-**Core CS:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Computer Networks
-
-**Tools:** Git, GitHub, VS Code, Arduino IDE
-
-## Featured Projects
-
-### 1. ReRise AI — Career Re-entry Assistant
-
-A Generative AI-powered career re-entry assistant designed to support women returning to the workforce after a career break.
-
-- Provides personalized career guidance based on skills, experience, goals, and constraints.
-- Designed workflows for career-fit assessment, personalized roadmaps, readiness scoring, and weekly planning.
-- Built for the Aspire For Her × Logitech hackathon semi-finals.
-
-**Tech:** AWS PartyRock, Generative AI
-
-
-### 2. MedTrack — Healthcare Management Platform
-
-A full-stack healthcare platform integrating multiple healthcare workflows into one application.
-
-- Built 6+ modules, including electronic medical records, appointment scheduling, prescriptions, pharmacy discovery, and inventory management.
-- Developed 15+ REST APIs.
-- Implemented JWT authentication, Google OAuth, role-based access control, and security measures.
-
-**Tech:** React.js, Node.js, Express.js, MongoDB, JWT
-
-
-### 3. Smart Expense — Expense Management Application
-
-An AI-assisted expense management application for tracking personal and group finances.
-
-- Developed budgeting, expense tracking, group settlements, reporting, and transaction categorization features.
-- Integrated Gemini 1.5 Flash for natural-language financial queries and transaction classification.
-- Added voice-based expense entry.
-
-**Tech:** React.js, Node.js, Express.js, MongoDB, Gemini API
-
-
-## Achievements
-
-- Winner — Decoduino, NIT Jamshedpur.
-- Top 5 among 250+ teams — Pantheon, BIT Mesra.
-- Semi-finalist — Flipkart GRID 8.0, ET AI Hackathon 2.0, and Aspire For Her × Logitech.
-- Solved 600+ Data Structures and Algorithms problems.
-- Codeforces Pupil — Peak rating: 1253.
-- CodeChef 2-Star — Peak rating: 1427.
-- Selected as a mentee at Codess.Cafe and SkillTurtle.
-
-## Leadership & Activities
-
-- Competitive Programmer — Programming Club, NIT Jamshedpur.
-- Active member of the Web and IoT teams at Team Innoreva.
-- Supported content creation and event coordination at the Electrical Engineering Society.
-- Mentored students through Sankalp and NSS.
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smriti-N&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-N&layout=compact&hide_border=true&theme=default" height="165" alt="Most used programming languages" />
+<p>
+  <a href="https://github.com/Smriti-N"><img src="https://img.shields.io/badge/GitHub-Smriti--N-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/smriti-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhartismriti993@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Smriti-N&hide_border=true&theme=default" alt="GitHub contribution streak" />
-</p>
+</div>
 
-## Connect With Me
+✦ About Me
+name: Smriti Bharti
+education: B.Tech in Electrical Engineering, NIT Jamshedpur
+graduation: 2028
+cgpa: 8.8/10
+interests:
+  - Software Engineering
+  - Data Structures & Algorithms
+  - Full-Stack Development
+  - Open Source
+I enjoy turning ideas into practical applications, strengthening my problem-solving skills, and learning by building. I'm currently exploring open source while growing as a software engineer.
+- Building full-stack applications with React, Node.js, Express, and MongoDB.
+- Solved 600+ DSA problems across coding platforms.
+- Winner at Decoduino and Top 5 among 250+ teams at Pantheon, BIT Mesra.
+- Competitive Programmer at the Programming Club, NIT Jamshedpur.
+✦ Tech Stack
+<div align="center">
 
-- **GitHub:** [Smriti-N](https://github.com/Smriti-N)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/smriti-bhardwaj/)
-- **Email:** [bhartismriti993@gmail.com](mailto:bhartismriti993@gmail.com)
+Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js&theme=dark" alt="C++, C, Java, JavaScript" />
 
----
 
-*Learning continuously, building consistently, and growing through open source.*
+Frontend, Backend & Database
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark" alt="HTML, CSS, React, Node.js, Express, MongoDB" />
+
+
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Git, GitHub, VS Code, Arduino" />
+
+</div>
+
+✦ Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✧ MedTrack</h3>
+      <p>A full-stack healthcare platform bringing together medical records, appointments, prescriptions, pharmacy discovery, and inventory management.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>6+ healthcare modules and 15+ REST APIs</li>
+        <li>JWT authentication, Google OAuth, and role-based access control</li>
+      </ul>
+      <p><strong>Stack:</strong> React · Node.js · Express · MongoDB</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✧ Smart Expense</h3>
+      <p>An AI-assisted expense management app for budgets, expense tracking, group settlements, reports, and transaction categorization.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Natural-language financial queries and transaction classification</li>
+        <li>Voice-based expense entry</li>
+      </ul>
+      <p><strong>Stack:</strong> React · Node.js · Express · MongoDB · Gemini API</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>✧ ReRise AI — Career Re-entry Assistant</h3>
+      <p>A Generative AI-powered assistant designed to help women returning to work after a career break, with personalized career guidance, roadmaps, readiness scoring, and weekly planning.</p>
+      <p><strong>Stack:</strong> AWS PartyRock · Generative AI</p>
+    </td>
+  </tr>
+</table>
+
+
+✦ Achievements
+<div align="center">
+
+<img src="https://img.shields.io/badge/Decoduino-Winner-7C3AED?style=for-the-badge" alt="Decoduino Winner" />
+<img src="https://img.shields.io/badge/Pantheon-Top%205%20of%20250%2B-0891B2?style=for-the-badge" alt="Pantheon Top 5" />
+<img src="https://img.shields.io/badge/DSA-600%2B%20Problems-16A34A?style=for-the-badge" alt="600+ DSA problems" />
+
+</div>
+
+- Semi-finalist — Flipkart GRID 8.0.
+- Semi-finalist — ET AI Hackathon 2.0.
+- Semi-finalist — Aspire For Her × Logitech.
+- Codeforces: Pupil, peak rating 1253.
+- CodeChef: 2-Star, peak rating 1427.
+- Mentee — Codess.Cafe and SkillTurtle.
+✦ GitHub Analytics
+<div align="center">
+
+<a href="https://github.com/Smriti-N">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Smriti-N&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Smriti's GitHub statistics" />
+</a>
+<a href="https://github.com/Smriti-N">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-N&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</a>
+
+
+<img src="https://streak-stats.demolab.com?user=Smriti-N&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+✦ Beyond the Code
+I have also contributed to web and IoT teams at Team Innoreva, supported events at the Electrical Engineering Society, and mentored students through Sankalp and NSS.
+<div align="center">
+
+✧ Thanks for stopping by!
+Always learning. Always building.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Decorative gradient footer" />
+
+</div>
