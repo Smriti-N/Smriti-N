@@ -22,6 +22,7 @@ I'm passionate about software engineering, data structures and algorithms, and f
 - Building full-stack applications with React, Node.js, Express, and MongoDB.
 - Solved 600+ DSA problems across coding platforms.
 - Competitive Programmer at the Programming Club, NIT Jamshedpur.
+  
 ✦ Tech Stack
 <div align="center">
 
@@ -86,6 +87,7 @@ I'm passionate about software engineering, data structures and algorithms, and f
 - Codeforces: Pupil, peak rating 1253.
 - CodeChef: 2-Star, peak rating 1427.
 - Mentee — Codess.Cafe and SkillTurtle.
+  
 ✦ GitHub Analytics
 <div align="center">
 
