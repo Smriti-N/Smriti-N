@@ -9,26 +9,18 @@
 
 <p>
   <a href="https://github.com/Smriti-N"><img src="https://img.shields.io/badge/GitHub-Smriti--N-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/smriti-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/smriti-bhardwaj-0908ab311/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bhartismriti993@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
 ✦ About Me
-name: Smriti Bharti
-education: B.Tech in Electrical Engineering, NIT Jamshedpur
-graduation: 2028
-cgpa: 8.8/10
-interests:
-  - Software Engineering
-  - Data Structures & Algorithms
-  - Full-Stack Development
-  - Open Source
-I enjoy turning ideas into practical applications, strengthening my problem-solving skills, and learning by building. I'm currently exploring open source while growing as a software engineer.
+I'm Smriti Bharti, an Electrical Engineering undergraduate at NIT Jamshedpur, graduating in 2028 with a CGPA of 8.8/10.
+
+I'm passionate about software engineering, data structures and algorithms, and full-stack development. I enjoy turning ideas into practical applications, strengthening my problem-solving skills, and learning by building. I'm also exploring open-source projects and looking for opportunities to contribute to developer communities.
 - Building full-stack applications with React, Node.js, Express, and MongoDB.
 - Solved 600+ DSA problems across coding platforms.
-- Winner at Decoduino and Top 5 among 250+ teams at Pantheon, BIT Mesra.
 - Competitive Programmer at the Programming Club, NIT Jamshedpur.
 ✦ Tech Stack
 <div align="center">
@@ -58,6 +50,7 @@ Tools
         <li>JWT authentication, Google OAuth, and role-based access control</li>
       </ul>
       <p><strong>Stack:</strong> React · Node.js · Express · MongoDB</p>
+      <p><a href="ADD_MEDTRACK_REPOSITORY_LINK">↗ View project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>✧ Smart Expense</h3>
@@ -68,6 +61,7 @@ Tools
         <li>Voice-based expense entry</li>
       </ul>
       <p><strong>Stack:</strong> React · Node.js · Express · MongoDB · Gemini API</p>
+      <p><a href="ADD_SMART_EXPENSE_REPOSITORY_LINK">↗ View project</a></p>
     </td>
   </tr>
   <tr>
@@ -75,20 +69,17 @@ Tools
       <h3>✧ ReRise AI — Career Re-entry Assistant</h3>
       <p>A Generative AI-powered assistant designed to help women returning to work after a career break, with personalized career guidance, roadmaps, readiness scoring, and weekly planning.</p>
       <p><strong>Stack:</strong> AWS PartyRock · Generative AI</p>
+      <p><a href="ADD_RERISE_AI_LINK">↗ View project</a> · Aspire For Her × Logitech hackathon semi-finalist project</p>
     </td>
   </tr>
 </table>
 
+Replace the three ADD_..._LINK placeholders with your real repository or project URLs before publishing.
 
 ✦ Achievements
-<div align="center">
-
-<img src="https://img.shields.io/badge/Decoduino-Winner-7C3AED?style=for-the-badge" alt="Decoduino Winner" />
-<img src="https://img.shields.io/badge/Pantheon-Top%205%20of%20250%2B-0891B2?style=for-the-badge" alt="Pantheon Top 5" />
-<img src="https://img.shields.io/badge/DSA-600%2B%20Problems-16A34A?style=for-the-badge" alt="600+ DSA problems" />
-
-</div>
-
+- Winner — Decoduino, NIT Jamshedpur.
+- Secured a Top 5 position among 250+ teams — Pantheon, BIT Mesra.
+- Solved 600+ Data Structures and Algorithms problems.
 - Semi-finalist — Flipkart GRID 8.0.
 - Semi-finalist — ET AI Hackathon 2.0.
 - Semi-finalist — Aspire For Her × Logitech.
