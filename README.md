@@ -99,7 +99,7 @@ I'm passionate about software engineering, data structures and algorithms, and f
 </a>
 
 
-<img src="https://streak-stats.demolab.com?user=Smriti-N&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Smriti-N&theme=tokyonight&hide_border=true&hide_total_contributions=true" alt="GitHub contribution streak" />
 
 </div>
 
