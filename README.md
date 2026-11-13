@@ -84,7 +84,7 @@ I'm passionate about software engineering, data structures and algorithms, and f
 - Semi-finalist — Flipkart GRID 8.0.
 - Semi-finalist — ET AI Hackathon 2.0.
 - Semi-finalist — Aspire For Her × Logitech.
-- Codeforces: Pupil, peak rating 1253.
+- Codeforces: Pupil, peak rating 1273.
 - CodeChef: 2-Star, peak rating 1427.
 - Mentee — Codess.Cafe and SkillTurtle.
   
